@@ -14,6 +14,8 @@ This repository contains **MedForge-Reasoner** training and evaluation code: cor
 
 We welcome the community to **try the demo**, **download the dataset and weights for research**, and **follow the open licenses and ethical use guidelines** stated on each Hugging Face page. This software is for **research only**; it is not a clinical product.
 
+Arxiv Paper Link: https://arxiv.org/abs/2603.18577
+
 ## Abstract
 
 Text-guided image editors can now manipulate authentic medical scans with high fidelity, threatening clinical trust and safety. MedForge provides a pre-hoc, evidence-grounded solution for medical forgery detection. We introduce **MedForge-90K**, a large-scale benchmark of realistic lesion edits with expert-guided reasoning supervision. **MedForge-Reasoner** performs localize-then-analyze reasoning, predicting suspicious regions before producing a verdict, and is aligned via Forgery-aware GSPO to strengthen grounding and reduce hallucinations. Full definitions, training details, and experiments are in the [paper](https://arxiv.org/abs/2603.18577).
