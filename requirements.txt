@@ -1,0 +1,18 @@
+vllm
+openai
+google-generativeai
+torch
+torchvision
+transformers
+accelerate
+peft
+sentencepiece
+protobuf
+diffusers
+opencv-python
+matplotlib
+pandas
+scikit-learn
+tqdm
+# flash-attn will be installed in setup_env.sh due to compilation requirements
+
